@@ -1,1 +1,28 @@
-<
+<h1>Has phone durability worsend?</h1>
+
+<style>
+    table, tr, td {
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+    <tr>
+        <td>Row 1, Column 1</td>
+        <td>Row 1, Column 2</td>
+        <td>Row 1, Column 3</td>
+    </tr>
+</table>
+<style>
+    table, tr, td {
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+    <tr>
+        <td>Row 2, Column 1</td>
+        <td>Row 2, Column 2</td>
+        <td>Row 2, Column 3</td>
+    </tr>
+</table>
