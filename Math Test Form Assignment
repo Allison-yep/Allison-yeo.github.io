@@ -1,0 +1,43 @@
+<form>
+    <input type="name">
+</form>
+<p>
+    <b>If you have 12 appleas and give 5 away, how many apples do you have remaining?</b>
+</p>
+<form>
+    <select>
+        <option value="2">A)2</option>
+        <option value="7">B)7</option>
+        <option value="17"> C)17</option>
+        <option value="4">D)4</option>
+    </select>
+</form>
+<p>
+    <b>What is 25% of 80?</b>
+</p>
+<form>
+    <select>
+        <option value="10">A)10</option>
+        <option value="20">B)20</option>
+        <option value="30"> C)30</option>
+        <option value="40">D)40</option>
+    </select>
+</form>
+<p>
+    <b>Jim is ten years older than Sally. If Jim was 25 years old in 1983, in what year was he born?</b>
+</p>
+<form>
+    <select>
+        <option value="1948">A)1948</option>
+        <option value="1953">B)1953</option>
+        <option value="1958"> C)1958</option>
+        <option value="1963">D)1963</option>
+    </select>
+</form>
+<form>
+    Megan purchases 2 packs of tennis balls for $12 total. There are 6 total tennis balls. How much does one pack of tennis balls cost? How much does 1 tennis ball cost?<br />
+<textarea rows="4"cols"60"></textarea>
+</form>
+<form>
+    Submit Completed Test:<br />
+<input type="submit">
