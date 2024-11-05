@@ -1,0 +1,63 @@
+<style>
+    .profile {
+        border: 1px solid #ccc;
+        padding: 16px;
+        margin: 16px;
+        border-radius: 8px;
+        width: 300px;
+        text-align: center;
+    }
+    .profile img {
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+    }
+    .profile h2 {
+        margin: 8px 0;
+    }
+    .profile p {
+        color: #666;
+    }
+</style>
+</head>
+<body>
+<div class="profile">
+<img src="player1.jpg" alt="Player 1">
+<h2>Bodie</h2>
+<p>
+Bio: Bodie is a super fun, energetic pup, who wants to bring the happiness wherever he goes.
+</p>
+<p>
+Rank: Captain
+</p>
+</div>
+<div class="profile">
+<img src="player2.jpg" alt="Player 2">
+<h2>Phoebe</h2>
+<p>
+Bio: Phoebe brings raw strength and determination to the team. He is the brains of the operation.
+</p>
+<p>
+Rank: Leutenant
+</p>
+</div>
+<div class="profile">
+<img src="player3.jpg" alt="Player 3">
+<h2>Cookie</h2>
+<p>
+Bio: Cookie does all the tasks that no one else wants to do. Rest assured the task always gets done.
+</p>
+<p>
+Rank: Grunt
+</p>
+</div>
+<div class="profile">
+<img src="player4.jpg" alt="Player 4">
+<h2>Mr. FluffyBottoms</h2>
+<p>
+Bio: Mr, FluffyBottoms serves as the decoy for the operation. He is automated and can take a hit or explosion.
+</p>
+<p>
+Rank: Cleaner
+</p>
+</div>
